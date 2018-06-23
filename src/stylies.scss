@@ -1,0 +1,30 @@
+.ascii-card-list-wrapper{
+  margin: 0px auto;
+  text-align: center;
+  max-width: 900px;
+}
+
+.ascii-card-list{
+  margin: 0px auto;
+  min-width: 600px;
+  border-collapse: collapse;
+  .table-header-price{
+    min-width:90px;
+  }
+  .table-header-id,
+  .table-header-size,
+  .table-header-price{
+    cursor: pointer;
+    &:hover{
+      text-decoration:underline;
+    }
+  }
+  td{
+    padding-bottom:1em;
+    padding-top:1em;
+  }
+  .ad{
+    text-align: center;
+    color: white;
+  }
+}
