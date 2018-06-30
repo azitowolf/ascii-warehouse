@@ -44972,7 +44972,7 @@
 	
 	
 	// module
-	exports.push([module.id, ".ascii-card-list-wrapper {\n  margin: 0px auto;\n  text-align: center;\n  max-width: 900px; }\n\n.ascii-card-list {\n  margin: 0px auto;\n  min-width: 600px;\n  border-collapse: collapse; }\n  .ascii-card-list .table-header-price {\n    min-width: 90px; }\n  .ascii-card-list .table-header-id,\n  .ascii-card-list .table-header-size,\n  .ascii-card-list .table-header-price {\n    cursor: pointer; }\n    .ascii-card-list .table-header-id:hover,\n    .ascii-card-list .table-header-size:hover,\n    .ascii-card-list .table-header-price:hover {\n      text-decoration: underline; }\n  .ascii-card-list td {\n    padding-bottom: 1em;\n    padding-top: 1em; }\n  .ascii-card-list .ad {\n    text-align: center;\n    color: white; }\n", ""]);
+	exports.push([module.id, ".ascii-card-list-wrapper {\n  margin: 0px auto;\n  text-align: center;\n  max-width: 900px; }\n\n.ascii-card-list {\n  margin: 0px auto;\n  min-width: 600px;\n  border-collapse: collapse; }\n  .ascii-card-list .table-header-price {\n    min-width: 90px; }\n  .ascii-card-list .table-header-id,\n  .ascii-card-list .table-header-size,\n  .ascii-card-list .table-header-price {\n    cursor: pointer; }\n    .ascii-card-list .table-header-id:hover,\n    .ascii-card-list .table-header-size:hover,\n    .ascii-card-list .table-header-price:hover {\n      text-decoration: underline; }\n  .ascii-card-list td {\n    padding-bottom: 1em;\n    padding-top: 1em; }\n  .ascii-card-list .ad {\n    text-align: center;\n    color: blue; }\n", ""]);
 	
 	// exports
 
